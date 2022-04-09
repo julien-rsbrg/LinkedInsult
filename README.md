@@ -69,6 +69,4 @@ Certaines fonctionnalités ne sont pas encore opérationnelles : <br/>
     - faire des recherches de tweets en direct<br/>
     - certaines insultes peuvent ne retourner aucun tweet. Cela créer une erreur *IndexError: list index out of range*<br/>
 (Update: problème normalement résolu)
-# LinkedInsult
-# LinkedInsult
-# LinkedInsult
+
